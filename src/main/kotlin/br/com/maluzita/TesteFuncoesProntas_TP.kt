@@ -57,7 +57,7 @@ fun main() {
 
 fun mostrarArray(array: Array<Int>): Unit{
     print("(")
-    var i: Int
+    var i: Int = 0
     for (i in array.indices){
         if (i == array.size - 1)
             print(array[i].toString())
