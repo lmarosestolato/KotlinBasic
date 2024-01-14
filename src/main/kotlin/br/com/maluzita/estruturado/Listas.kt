@@ -1,4 +1,4 @@
-package br.com.maluzita
+package br.com.maluzita.estruturado
 
 fun main() {
     var list = listOf( 0, 2, 4, 6, 8 ) // semelhante a array

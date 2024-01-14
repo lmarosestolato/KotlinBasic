@@ -1,4 +1,4 @@
-package br.com.maluzita
+package br.com.maluzita.estruturado
 
 import java.text.SimpleDateFormat
 import java.time.DayOfWeek

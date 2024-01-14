@@ -1,4 +1,4 @@
-package br.com.maluzita
+package br.com.maluzita.estruturado
 
 import kotlin.random.Random
 import kotlin.system.measureNanoTime

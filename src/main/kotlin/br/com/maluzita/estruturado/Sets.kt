@@ -1,7 +1,5 @@
-package br.com.maluzita
+package br.com.maluzita.estruturado
 
-import java.util.HashSet
-import kotlin.concurrent.timer
 import kotlin.system.measureNanoTime
 
 fun main() {
